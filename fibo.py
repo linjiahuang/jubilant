@@ -20,4 +20,4 @@ example = 'SPIN-OFF TO ABC DEF AND SPIN-OFF TO GHI AND JKL AND SPIN-OFF TO MNO A
 result = parse_termsdetail(example)
 print result
 
-print 'test'
+print 'test123'
